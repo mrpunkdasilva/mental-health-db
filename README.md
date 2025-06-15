@@ -16,8 +16,6 @@
 
 Mental Health DB is a comprehensive web platform dedicated to providing information about mental health topics and services. The project's primary focus is on **accessibility**, ensuring that mental health resources are available to everyone, including those with visual or hearing impairments.
 
-🌐 [Live Website](https://dev-gustavo-henrique.github.io/mental-health-db/)
-
 ## 🎯 Features
 
 - Information on various mental health conditions:
